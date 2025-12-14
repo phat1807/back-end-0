@@ -1,0 +1,28 @@
+{
+  "name": "back_end",
+  "version": "1.0.0",
+  "description": "Back-end-tutorial",
+  "keywords": [
+    "notejs",
+    "react"
+  ],
+  "homepage": "https://github.com/phat1807/back-end-0#readme",
+  "bugs": {
+    "url": "https://github.com/phat1807/back-end-0/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phat1807/back-end-0.git"
+  },
+  "license": "ISC",
+  "author": "Phat",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "5.2.1"
+  }
+}
