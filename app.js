@@ -1,0 +1,1 @@
+console.log("Hello World! and welcome to the application.");
